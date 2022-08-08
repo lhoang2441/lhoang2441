@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhoang2441
 
-Instructions:
+Instructions for Data Mining - Project Phase 2:
  1. Save the csv file submitted through Blackboard into Document folder.
  2. Open the code in RStudio.
  3. The code should have the read.csv function to read the csv file downloaded.
